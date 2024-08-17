@@ -26,6 +26,18 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+### Tools and Technologies
+In this tutorial, we'll use the following tools:
+
+- NestJS – Our Node.js framework
+- Node.js – Our runtime environment
+- Docker – For containerizing our database
+- TypeScript: A statically typed superset of JavaScript
+- Prisma: An open-source database toolkit
+- Swagger: A tool for designing, building, and documenting RESTful APIs.
+- PostgreSQL – Our database
+
+
 ## Installation
 
 ```bash
